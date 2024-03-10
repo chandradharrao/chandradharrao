@@ -4,8 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/chandradharrao1" target="blank"><img src="https://img.shields.io/twitter/follow/chandradharrao1?logo=twitter&style=for-the-badge" alt="chandradharrao1" /></a> </p>
 
-<p align="left">A third-year Computer Science student at PES University</p>
-<p align="left">Web developemnt , System programming and Game Development</p>
+<p align="left">SDE 1 at J.P. Morgan Chase and Co.</p>
+<p align="left">Full stack Web developemnt, System programming and Game Development</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -35,9 +35,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandradharrao&theme=onedark" alt="Chandra" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandradharrao&show_icons=true&locale=en&layout=compact" alt="chandradharrao" /></p>
-
-
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chandradharrao&theme=github"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandradharrao&show_icons=true&locale=en" alt="chandradharrao" /></p>
 
