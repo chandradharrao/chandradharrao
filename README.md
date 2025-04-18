@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/chandradharrao1" target="blank"><img src="https://img.shields.io/twitter/follow/chandradharrao1?logo=twitter&style=for-the-badge" alt="chandradharrao1" /></a> </p>
 
-<p align="left">SDE 1 at J.P. Morgan Chase and Co.</p>
+<p align="left">SDE 2 at J.P. Morgan Chase and Co.</p>
 <p align="left">Full stack Web developemnt, System programming and Game Development</p>
 
 
